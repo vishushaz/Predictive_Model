@@ -1,4 +1,4 @@
-location = ('C:\Users\vishu\Google Drive\F-V_AZ\Machine-Learning\Data\Added');
+location = ('C:\Users\.......\Data\Added');
 dir(location)
 
 %%
