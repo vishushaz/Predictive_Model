@@ -1,4 +1,4 @@
-folder='C:\Users\shastri.vishweshwer\Desktop\CDCRC\ABC'
+folder='C:\Users\......\Desktop\CDCRC\ABC'
 d=dir(folder)
 e={d.datenum}
 f=e(~cellfun(@isempty,regexp(e,'.+(?=\.xlsx)','match')))
