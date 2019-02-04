@@ -1,5 +1,5 @@
 %%
-Data = readtable('C:\Users\vishu\Desktop\CDCRC\work\DatasetOrganised.xlsx');
+Data = readtable('C:\.........\DatasetOrganised.xlsx');
 %Per_FEV1 = (Data.FEV1_ / 100);
 %Data.FEV1_ = Per_FEV1;
 %Std_FEV1_FVC = (Data.FEV1_FVC /100);
